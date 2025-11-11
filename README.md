@@ -49,7 +49,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Uploading Kapture 2025-11-11 at 16.26.31.gif…]()
+
+https://github.com/user-attachments/assets/2db7bfa0-e25a-4883-bef4-2e25309a0d5b
 
 
 GIF created with ...  
